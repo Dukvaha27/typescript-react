@@ -1,0 +1,16 @@
+.todo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px 0;
+}
+.inputMargin{
+    margin: 0;
+}
+#input{
+    margin: 0;
+}
+.cursor{
+    cursor: pointer;
+    padding: 5px;
+}
